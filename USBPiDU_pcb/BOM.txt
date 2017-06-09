@@ -1,3 +1,6 @@
 Right angle USB A ports:
   609-1041-ND
   ED2991-ND
+
+
+https://www.digikey.com/product-detail/en/diodes-incorporated/AP22802AW5-7/AP22802AW5-7DICT-ND/4935003
