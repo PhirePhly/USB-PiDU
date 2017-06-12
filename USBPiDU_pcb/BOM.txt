@@ -1,6 +1,15 @@
 Right angle USB A ports:
-  609-1041-ND
-  ED2991-ND
+  https://www.digikey.com/products/en?keywords=609-1041-ND
+  https://www.digikey.com/products/en?keywords=ED2991-ND
+
+Micro USB Connector
+  https://www.digikey.com/products/en?keywords=609-4613-1-ND
+  http://portal.fciconnect.com/Comergent//fci/drawing/10118192.pdf
+
+USB Load Switch:
+  https://www.digikey.com/products/en?keywords=AP22802AW5-7DICT-ND
+
+5mm header:
+  https://www.digikey.com/products/en?keywords=277-1667-ND
 
 
-https://www.digikey.com/product-detail/en/diodes-incorporated/AP22802AW5-7/AP22802AW5-7DICT-ND/4935003

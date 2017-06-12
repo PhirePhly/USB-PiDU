@@ -1,0 +1,5 @@
+Boarduino for basic FTDI Arduino schematic:
+https://learn.adafruit.com/boarduino-kits/downloads
+
+
+

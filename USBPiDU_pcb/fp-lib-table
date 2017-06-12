@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name USP-PiDU)(type KiCad)(uri "$(KIPRJMOD)/USP-PiDU.pretty")(options "")(descr ""))
+)

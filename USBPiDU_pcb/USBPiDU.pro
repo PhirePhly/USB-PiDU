@@ -1,4 +1,4 @@
-update=Thu 08 Jun 2017 20:43:51 PDT
+update=Sat 10 Jun 2017 20:32:26 PDT
 version=1
 last_client=kicad
 [pcbnew]
@@ -60,3 +60,4 @@ LibName28=contrib
 LibName29=valves
 LibName30=ftdi
 LibName31=USB-PiDU
+LibName32=mechanical
