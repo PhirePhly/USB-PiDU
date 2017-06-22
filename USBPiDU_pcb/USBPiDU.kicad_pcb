@@ -3,7 +3,7 @@
   (general
     (links 146)
     (no_connects 0)
-    (area 46.424999 46.424999 118.075001 102.575001)
+    (area 42.585714 44.745 119.025001 104.325001)
     (thickness 1.6)
     (drawings 45)
     (tracks 558)
@@ -66,7 +66,7 @@
     (mod_text_width 0.15)
     (pad_size 1.524 1.524)
     (pad_drill 0.762)
-    (pad_to_mask_clearance 0.2)
+    (pad_to_mask_clearance 0.075)
     (aux_axis_origin 0 0)
     (visible_elements FFFFFF7F)
     (pcbplotparams
@@ -2231,9 +2231,9 @@
   (gr_arc (start 50 99) (end 50 102.5) (angle 90) (layer Edge.Cuts) (width 0.15))
   (gr_line (start 46.5 50) (end 46.5 99) (angle 90) (layer Edge.Cuts) (width 0.15))
 
-  (via (at 82.15 67.75) (size 0.6) (drill 0.4) (layers F.Cu B.Cu) (net 1) (status C00000))
+  (via (at 82.15 67.75) (size 0.6) (drill 0.4) (layers F.Cu B.Cu) (net 1))
   (segment (start 82.25 69.25) (end 82.25 67.85) (width 0.25) (layer B.Cu) (net 1) (tstamp 5948C45D))
-  (segment (start 82.25 67.85) (end 82.15 67.75) (width 0.25) (layer B.Cu) (net 1) (tstamp 5948C45C) (status 800000))
+  (segment (start 82.25 67.85) (end 82.15 67.75) (width 0.25) (layer B.Cu) (net 1) (tstamp 5948C45C))
   (segment (start 100 74.5) (end 100 74.25) (width 0.25) (layer F.Cu) (net 1))
   (segment (start 103.624 71.374) (end 103.75 71.5) (width 0.25) (layer F.Cu) (net 1) (tstamp 5948C0A6))
   (segment (start 103.374 71.374) (end 103.624 71.374) (width 0.25) (layer F.Cu) (net 1) (tstamp 5948C0A5))
@@ -2773,7 +2773,7 @@
   (segment (start 73.914 52.266002) (end 73.717998 52.07) (width 0.25) (layer F.Cu) (net 45) (tstamp 5946FEA7))
   (segment (start 73.914 56.896) (end 73.914 52.266002) (width 0.25) (layer F.Cu) (net 45) (tstamp 5946FEA6))
   (segment (start 74.218 57.2) (end 73.914 56.896) (width 0.25) (layer F.Cu) (net 45) (tstamp 5946FEA5))
-  (segment (start 87.8 67.75) (end 88.5 67.75) (width 0.25) (layer F.Cu) (net 46) (status 400000))
+  (segment (start 87.8 67.75) (end 88.5 67.75) (width 0.25) (layer F.Cu) (net 46))
   (segment (start 89.916 66.334) (end 89.916 65.278) (width 0.25) (layer B.Cu) (net 46) (tstamp 5948C473))
   (segment (start 89.25 67) (end 89.916 66.334) (width 0.25) (layer B.Cu) (net 46) (tstamp 5948C472))
   (via (at 89.25 67) (size 0.6) (drill 0.4) (layers F.Cu B.Cu) (net 46))
@@ -2788,7 +2788,7 @@
   (segment (start 88.138 63.5) (end 88.9 63.5) (width 0.25) (layer F.Cu) (net 46) (tstamp 5946FEEA))
   (segment (start 87.884 63.754) (end 88.138 63.5) (width 0.25) (layer F.Cu) (net 46) (tstamp 5946FEE9))
   (segment (start 91.678 67.04) (end 92.25 67.04) (width 0.25) (layer B.Cu) (net 46) (tstamp 5946FEF0))
-  (segment (start 84.35 67.75) (end 86.2 67.75) (width 0.25) (layer F.Cu) (net 47) (status C00000))
+  (segment (start 84.35 67.75) (end 86.2 67.75) (width 0.25) (layer F.Cu) (net 47))
 
   (zone (net 1) (net_name GND) (layer B.Cu) (tstamp 5946FFD4) (hatch edge 0.508)
     (connect_pads (clearance 0.508))
