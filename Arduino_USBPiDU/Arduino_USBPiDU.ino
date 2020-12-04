@@ -14,11 +14,17 @@
 void setup() {
   Serial.begin(9600);
 
-  pinMode(13, OUTPUT);
-  pinMode(12, OUTPUT);
-  pinMode(11, OUTPUT);
   pinMode(10, OUTPUT);
-  pinMode( 9, OUTPUT);
+  pinMode(9, OUTPUT);
+  pinMode(8, OUTPUT);
+  pinMode(7, OUTPUT);
+  pinMode(6, OUTPUT);
+
+  digitalWrite(10, LOW);
+  digitalWrite(9, LOW);
+  digitalWrite(8, LOW);
+  digitalWrite(7, LOW);
+  digitalWrite(6, LOW);
 }
 
 void loop() {
@@ -34,7 +40,7 @@ void loop() {
       return;
     }
 
-    int portnum = 14 - (port - '0');
+    int portnum = 11 - (port - '0');
     if (command == '+') {
       digitalWrite(portnum, HIGH);
     } else if (command == '-') {
